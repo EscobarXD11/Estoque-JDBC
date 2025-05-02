@@ -1,3 +1,4 @@
+package estoque;
 public class Estoque {
     private int id;
     private String nome;
